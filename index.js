@@ -14,5 +14,5 @@ function destructivelyRemoveFirstDriver(name){
 }
 
 function destructivelyRemoveLastDriver(name){
-  drivers.
+  drivers.pop(name);
 }
